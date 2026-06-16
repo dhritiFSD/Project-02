@@ -1,0 +1,44 @@
+const projects = [
+  {
+    id: 1,
+    title: "Personal Portfolio Website",
+    technology: "React",
+    description:
+      "Responsive portfolio website showcasing my skills, projects, and cybersecurity journey.",
+  },
+  {
+    id: 2,
+    title: "Cybersecurity Awareness Website",
+    technology: "React",
+    description:
+      "Educational website explaining phishing attacks, malware, password security, and safe browsing practices.",
+  },
+  {
+    id: 3,
+    title: "Network Scanner Tool",
+    technology: "JavaScript",
+    description:
+      "Basic networking project to understand IP addresses, ports, and network communication concepts.",
+  },
+  {
+    id: 4,
+    title: "Weather Application",
+    technology: "JavaScript",
+    description:
+      "Weather forecasting application using API integration and dynamic data rendering.",
+  },
+  {
+    id: 5,
+    title: "Student Management System",
+    technology: "React",
+    description:
+      "CRUD-based application for managing student records using React and database connectivity.",
+  },
+  {
+    id: 6,
+    title: "Responsive Landing Page",
+    technology: "HTML/CSS",
+    description:
+      "Modern and mobile-friendly landing page with clean UI and responsive design.",
+  },
+];
